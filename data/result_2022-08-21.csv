@@ -1,5 +1,9 @@
-Ticker, STDev5
-AAK, 0.0037223333683365353
-ABB, 0.007538440274543373
-ADDT B, 0.015721162249572568
-8TRA, 0.02161445430364916
+<table>
+<thead><tr><td>Ticker</td><td>STDev5</td></tr></thead>
+<tbody>
+<tr><td>AAK</td><td>0.0037223333683365353</td></tr>
+<tr><td>ABB</td><td>0.007538440274543373</td></tr>
+<tr><td>ADDT B</td><td>0.015721162249572568</td></tr>
+<tr><td>8TRA</td><td>0.02161445430364916</td></tr>
+</tbody>
+</table>
